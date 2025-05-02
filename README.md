@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/punamsomvanshi](https://github.com/punamsomvanshi)
 
-- 📝 Certification Course **✅ Manual Software Testing + Agile with Jira Tool**
+- 📝 Certification Course **1)✅ Manual Software Testing + Agile with Jira Tool
+                            2) ✅ Introduction to Selenium**
 
 - 📫 How to reach me **punamsomvanshi29@gmail.com**
 
